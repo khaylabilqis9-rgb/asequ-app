@@ -12,12 +12,12 @@ export default function App() {
   };
 
   const images = [
-    "/images/ase1.jpg.jpg",
-    "/images/ase2.jpg.jpg",
-    "/images/ase3.jpg.jpg",
-    "/images/ase4.jpg.jpg",
-    "/images/ase5.jpg.jpg",
-    "/images/ase6.jpg.jpeg"
+    "/images/ase1.jpg",
+    "/images/ase2.jpg",
+    "/images/ase3.jpg",
+    "/images/ase4.jpg",
+    "/images/ase5.jpg",
+    "/images/ase6.jpeg"
   ];
 
   return (
