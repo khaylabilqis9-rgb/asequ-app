@@ -17,7 +17,7 @@ export default function App() {
     "/images/ase3.jpg",
     "/images/ase4.jpg",
     "/images/ase5.jpg",
-    "/images/ase6.jpeg"
+    "/images/ase6.jpg"
   ];
 
   return (
